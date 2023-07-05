@@ -7,7 +7,7 @@ Thoth is a web extension that allows users to login to starknet dApps using thei
 
 ## Implementation
 
-We're currently exploring on how to implement this, using the (Shamir Secret Sharing)[https://en.wikipedia.org/wiki/Shamir%27s_secret_sharing] technique in Cairo 1.0.
+We're currently exploring on how to implement this, using the [Shamir Secret Sharing](https://en.wikipedia.org/wiki/Shamir%27s_secret_sharing) technique in Cairo 1.0.
 
 But the general gist of the wallet will be as follows :-
 
